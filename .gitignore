@@ -23,7 +23,6 @@ venv/
 # Docker-related
 *.log
 *.db
-Dockerfile
 docker-compose.yml
 
 # IDE and editor files
