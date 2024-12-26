@@ -41,21 +41,16 @@ docker build -t secure-db-demo .
 2. Run the container:
 ```sh
 docker run secure-db-demo
-```
+
 
 ## Project Structure
 
-- 
-
 app.py
-
  - Main application code with database operations and encryption logic
-- 
 
 requirements.txt
 
  - Python dependencies
-- 
 
 Dockerfile
 
@@ -68,6 +63,5 @@ Dockerfile
 - Data encryption/decryption functions for secure data handling
 
 ## Note
-
 This is a demonstration project and should be adapted with additional security measures for production use.
 ```
